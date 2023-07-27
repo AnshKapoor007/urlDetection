@@ -31,10 +31,17 @@ input[type="text"] {
 .result-container {
   margin-top: 20px;
   padding: 10px;
-  background-color: #4E9E47;
   border-radius: 5px;
   margin-bottom: 1.5rem;
   display: none;
+}
+
+.bg-green {
+  background-color: #4E9E47;
+}
+
+.bg-red {
+  background-color: #ff080c;
 }
 
 button {
